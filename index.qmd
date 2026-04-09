@@ -46,3 +46,7 @@ I currently serve on the Mid-Atlantic Fishery Management Council's Scientific an
 *(Many thanks for super resources for building websites with Quarto put together and shared by [Angelia Miller](https://angeliamiller.github.io/) and [Samantha Csik](https://samanthacsik.github.io/))*
 
 ^\*^*as coined by [Julie Lowndes](https://jules32.github.io/) in her awesome rstudio::conf 2022 [keynote](https://posit.co/keynotes/hello-quarto-share-collaborate-teach-reimagine/).*
+
+## Cooper Ramey
+
+Hello, I'm Cooper! I'm a marine science undergraduate researching cetacean vocalizations. In my free I enjoy reading, hiking, and scuba diving.
