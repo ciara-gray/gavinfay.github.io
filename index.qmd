@@ -47,6 +47,14 @@ I currently serve on the Mid-Atlantic Fishery Management Council's Scientific an
 
 ^\*^*as coined by [Julie Lowndes](https://jules32.github.io/) in her awesome rstudio::conf 2022 [keynote](https://posit.co/keynotes/hello-quarto-share-collaborate-teach-reimagine/).*
 
+## Max Czapanskiy
+
+Hi, I'm Max! I teach marine data science at UCSB in the Bren School and the College of Creative Studies. Catch me baking and walking my dog when I'm not coding.
+
+## Cooper Ramey
+
+Hello, I'm Cooper! I'm a marine science undergraduate researching cetacean vocalizations. In my free I enjoy reading, hiking, and scuba diving.
+
 ## Ciara Gray
 
 I am a CCS Marine Science student in the last quarter of my bachelor's degree. I am interested in marine ecology and behavioral ecology. I am also a scientific SCUBA diver for UCSB.
